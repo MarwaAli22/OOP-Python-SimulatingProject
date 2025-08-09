@@ -7,14 +7,14 @@ The project demonstrates **Object-Oriented Programming (OOP)** concepts in Pytho
 
 ## 📂 Project Structure
 
-- **`story.py`**  
+- **[`story.py`](email_validator.py)**  
   Contains the main classes and logic:
   - `Person`: Base class for basic attributes and behaviors (sleep, eat, buy).
   - `Employee`: Inherits from `Person`, adds work-related methods (work, drive, refuel, send email).
   - `Office`: Manages employees (hire, fire, check lateness, reward, deduct).
   - `Car`: Simulates car behavior (run, stop) with fuel and velocity handling.
 
-- **`email_validator.py`**  
+- **[`email_validator.py`](email_validator.py)**  
   Contains the email validation function
 
 ---
